@@ -1,0 +1,26 @@
+{
+  "name": "personal-tool-kit",
+  "version": "1.0.0",
+  "description": "A person tool-kit for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-store/personal-tool-kit.git"
+  },
+  "keywords": [
+    "tool",
+    "personal-tool"
+  ],
+  "author": "frank-wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simple-store/personal-tool-kit/issues"
+  },
+  "homepage": "https://github.com/simple-store/personal-tool-kit#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
